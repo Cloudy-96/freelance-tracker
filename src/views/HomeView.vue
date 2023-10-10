@@ -1,9 +1,10 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+     <h1 class="text-[white] bg-[pink]">Hello</h1>
+     <h2>Salary tracker</h2>
   </main>
 </template>
